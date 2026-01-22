@@ -33,7 +33,7 @@ define(['pipAPI', 'https://betodata.github.io/IAT_civ_ed/template_main.js'], fun
     			{word : 'Mando'}, 
     			{word : 'Centralismo'}, 
 				{word : 'Imposición'}, 
-    			{word : 'Disciplina'}				], 
+    			{word : 'Obediencia'}				], 
 			//Stimulus css
 			stimulusCss : {color:'#31940F','font-size':'1.8em'}
 		},	
