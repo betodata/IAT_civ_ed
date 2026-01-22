@@ -62,7 +62,7 @@ define(['pipAPI','pipScorer','underscore'], function(APIConstructor, Scorer, _) 
     			{word : 'Control'}, 
     			{word : 'Mando'}, 
     			{word : 'Centralismo'}, 
-				{word : 'Decreto'}, 
+				{word : 'Imposición'}, 
     			{word : 'Disciplina'}			
 			],
 				//Stimulus css
